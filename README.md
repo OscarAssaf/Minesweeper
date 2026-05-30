@@ -26,7 +26,7 @@ The game comes with sepearte difficulty levels and a custom one where you can cu
 ### 1. Clone the repository
  
 ```bash
-git clone [https://github.com/your-username/MinesweeperQt.git](https://github.com/OscarAssaf/Minesweeper
+git clone https://github.com/OscarAssaf/Minesweeper
 cd Minesweeper
 ```
 
